@@ -19,4 +19,4 @@ Once you have a local copy and know how to get other peolpe's changes, you'll pr
 to edit the files yourself and send your local edits back up to the authoratitive version so
 that everyone else can have them as well.
 
-Continue on to 3_BUNDLING_CHANGES.
+Continue on to [3_BUNDLING_CHANGES](3_BUNDLING_CHANGES.md).

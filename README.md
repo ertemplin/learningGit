@@ -8,4 +8,4 @@ git clone https://github.com/cole14/learningGit.git
 ```
 
 After running the above command, you should have a folder named 'learningGit' in the current
-working directory.  To continue, open the file named 'BEGIN' and follow along.
+working directory.  To continue, open the file named '[BEGIN](BEGIN.md)' and follow along.

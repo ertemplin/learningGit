@@ -42,5 +42,4 @@ for any updates anyone else has made (through a pull command).
 Hopefully that makes some sense.  Now we'll explain the previously mentioned 6 core commands
 we'll be using, and walk through some hands-on uses.
 
-Open up the 1_CLONE file to continue.
-
+Open up the [1_CLONE](1_CLONE.md) file to continue.

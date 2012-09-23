@@ -16,5 +16,4 @@ It's good form to always pull before you push.  That way, git will tell you if t
 merge conflict and you can edit it yourself on the local version.  Otherwise, your push will
 fail and you'll quickly start heading down the road to merge hell.
 
-Continue on now to the final section 5_SUMMARY!
-
+Continue on now to the final section [5_SUMMARY](5_SUMMARY.md)!
