@@ -18,5 +18,5 @@ server and place them in a new directory in the current working directory on you
 After you've run the clone command, you'll want to periodically get the latest updates from
 the authoritative version using the pull command.
 
-Continue on to the 2_PULL file.
+Continue on to the [2_PULL](2_PULL.md) file.
 
