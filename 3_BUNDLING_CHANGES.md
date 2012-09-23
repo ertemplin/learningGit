@@ -52,5 +52,5 @@ because you can bundle up some intermediate changes that you may not want everyo
 just yet.  To complete the process and upload your bundle(s) to the authoritative version,
 you'll need to run the push command.
 
-Continue on to (4_PUSH)[4_PUSH.md].
+Continue on to [4_PUSH](4_PUSH.md).
     
