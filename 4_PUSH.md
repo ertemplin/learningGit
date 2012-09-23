@@ -8,8 +8,8 @@ scenario, we made some local changes to the same places as a change we tried to 
 using the pull command, and it confused git into a merge error. A good way to avoid that is
 to first pull before you try to push your local bundle.
 ```bash
-    git pull
-    git push
+git pull
+git push
 ```
 
 It's good form to always pull before you push.  That way, git will tell you if there's a

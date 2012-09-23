@@ -6,7 +6,7 @@ As previously mentioned, you should already have some exposure to the clone comm
 
 If you haven't yet, open up a terminal and run the following command:
 ```bash
-  git clone https://github.com/cole14/learningGit.git
+git clone https://github.com/cole14/learningGit.git
 ```
 
 The git clone command reaches out to the authoritative server and asks for the latest copy

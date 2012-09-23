@@ -9,19 +9,19 @@ We'll start by creating some content in our local copy of the repository.
 First open up a terminal (if you haven't already), and change directories into the local
 copy.
 ```bash
-    cd learningGit/
+cd learningGit/
 ```
 
 Next, create a subdirectory for yourself named after your github username (substitute your
 username for mine)
 ```bash
-    mkdir cole14/
+mkdir cole14/
 ```
 
 Next, using the editor of your choice, create a file in your newly created subdirectory with
 the words Hello, World!
 ```bash
-    echo "Hello, World!" > cole14/myFirstFile.txt
+echo "Hello, World!" > cole14/myFirstFile.txt
 ```
 
 At this point, you've made some changes to your local copy of the repository.  You've created
@@ -29,7 +29,7 @@ a subdirectory and added a file with some content.  However, git doesn't care ab
 unless you tell it to, so next we'll tell git to keep track of our new files using the add
 command.
 ```bash
-    git add cole14/myFirstFile.txt
+git add cole14/myFirstFile.txt
 ```
 
 The add command starts the bundling process.  When you want to bundle up your local changes
@@ -40,7 +40,7 @@ specify the files which contain the changes you want to bundle.
 Once you've added all the changes to the bundle, you finish up the bundle using the commit
 command:
 ```bash
-    git commit
+git commit
 ```
 
 This command will open up an editor (probably pico or nano) for you to add a

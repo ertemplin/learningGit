@@ -6,7 +6,7 @@ the authoritative version for any new changes - maybe someone else fixed an anno
 after you got your local copy set up.  The way you download those changes is through the pull
 command:
 ```bash
-    git pull
+git pull
 ```
 
 It's as simple as that.  If the authoritative version has changes you don't yet have, then

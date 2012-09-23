@@ -12,24 +12,24 @@ To summarize:
 To set up the initial local copy of the repository (replace learningGit with your desired
 repo):
 ```bash
-    git clone https://github.com/cole14/learningGit.git
+git clone https://github.com/cole14/learningGit.git
 ```
 
 To download any new changes to the repository you don't yet have in your local copy:
 ```bash
-    git pull
+git pull
 ```
 
 To bundle up any local changes you've made:
 ```bash
-    git add <file(s)>
-    git commit
+git add <file(s)>
+git commit
 ```
 
 To add your bundle of changes to the authoritative version of the code:
 ```bash
-    git pull (to avoid merge hell)
-    git push
+git pull (to avoid merge hell)
+git push
 ```
 
 I highly recommend you to now play around with git here in this learning repository.
