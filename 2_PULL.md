@@ -1,10 +1,13 @@
 2. Pull
+=======
 
 Once you have your local copy set up using the clone command, you'll want to periodically ask
 the authoritative version for any new changes - maybe someone else fixed an annoying bug
 after you got your local copy set up.  The way you download those changes is through the pull
 command:
+```bash
     git pull
+```
 
 It's as simple as that.  If the authoritative version has changes you don't yet have, then
 they are downloaded and automatically merged into your local copy.  Sometimes this can cause
